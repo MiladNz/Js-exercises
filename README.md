@@ -7,3 +7,6 @@ a) map - reduce - filter :
   
   Input = [ 1, 2, 3, 4, 5 ]   Result =[ 1, 4, 9, 16, 25]
   
+  2- Sum of every positive element
+  
+  input = [ 1, -4, 12, 0, -3, 29, -150]   Result = 42
