@@ -15,3 +15,6 @@ a) map - reduce - filter :
   
   input = 'George Raymond Richard Martin'   Result = 'GRRM'
   
+  4- Age Difference from the youngest and oldest
+  
+  input = [{name: 'John',age: 13,},{name: 'Mark',age: 56,},{name: 'Rachel',age: 45,},..]    Result = [13, 67, 54]
