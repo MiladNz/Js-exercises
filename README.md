@@ -5,7 +5,7 @@ a) map - reduce - filter :
 
   1- Array Squared
   
-  Input = [ 1, 2, 3, 4, 5 ]
+  input = [ 1, 2, 3, 4, 5 ]
   
   Result =[ 1, 4, 9, 16, 25]
   
@@ -32,5 +32,11 @@ a) map - reduce - filter :
   input = 'Every developer likes to mix kubernetes and javascript'
   
   Result = 'E3y d7r l3s to mix k8s and j8t'
+  
+  6- Factorial (n!) with map and reduce
+  
+  input = 6 
+  
+  Result = 720
   
   
