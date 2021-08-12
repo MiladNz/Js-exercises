@@ -18,3 +18,9 @@ a) map - reduce - filter :
   4- Age Difference from the youngest and oldest
   
   input = [{name: 'John',age: 13,},{name: 'Mark',age: 56,},{name: 'Rachel',age: 45,},..]    Result = [13, 67, 54]
+  
+  5- Numeronyms
+  
+  input = 'Every developer likes to mix kubernetes and javascript'    Result = 'E3y d7r l3s to mix k8s and j8t'
+  
+  
