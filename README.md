@@ -48,3 +48,15 @@ a) map - reduce - filter :
   ]
   
   Result = { a: 1, b: 1, c: 2, d: 2, f: 2, g: 1,}
+
+b) Js + DOM :
+
+1- Ex-Courses :
+display number and name of available courses
+courses = [
+    { title: "course 1", isExist: true },
+    { title: "course 2", isExist: false },
+    { title: "course 3", isExist: true },
+    { title: "course 4", isExist: false },
+];
+
