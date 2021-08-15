@@ -52,11 +52,6 @@ a) map - reduce - filter :
 b) Js + DOM :
 
 1- Ex-Courses :
+
 display number and name of available courses
-courses = [
-    { title: "course 1", isExist: true },
-    { title: "course 2", isExist: false },
-    { title: "course 3", isExist: true },
-    { title: "course 4", isExist: false },
-];
 
