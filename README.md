@@ -55,3 +55,7 @@ b) Js + DOM :
 
 display number and name of available courses
 
+2- Ex-Find p Tags:
+
+find all p tags that includes Js or JS or js word and remove theme
+
