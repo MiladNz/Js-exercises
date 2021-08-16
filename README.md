@@ -59,3 +59,8 @@ display number and name of available courses
 
 find all p tags that includes Js or JS or js word and remove theme
 
+3- Ex-Search and filter
+
+Search and filter courses by user's keyword 
+
+
